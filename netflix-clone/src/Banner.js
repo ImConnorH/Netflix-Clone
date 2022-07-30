@@ -54,8 +54,8 @@ function Banner() {
                     {truncate(movie?.overview, 200)}
                 </div>
 
-                {/* div > 2 buttons: Play, My List */}
-                {/* description */}
+                {/* this is just a small div we have at the bottom of the header to create a transition effect */}
+                <div className="banner--fadeBottom"></div>
             </div>
         </header>
     );
