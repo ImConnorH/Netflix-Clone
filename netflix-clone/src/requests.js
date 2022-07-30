@@ -1,5 +1,5 @@
 // apply for your own API key at https://www.themoviedb.org/ or view the live demo in the README file
-const APIKEY = "REDACTED FOR SECURITY";
+// const APIKEY = "REDACTED FOR SECURITY";
 
 // creating an object with all endpoints
 const requests = {
