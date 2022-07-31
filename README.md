@@ -20,5 +20,5 @@ This project was built using React. The API used to provide information on each 
 
 ### Let's Collaborate!
 
-If this project interests you, or you would like to learn a bit more about any of the technologies used,
-please feel free to create a pull request and contribute! All ideas are welcomed!
+If this project interests you, or you would like to learn more about any of the technologies used,
+please feel free to create a pull request and contribute! All ideas are welcome!
