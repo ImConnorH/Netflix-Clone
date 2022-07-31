@@ -5,7 +5,7 @@ This project was built using React. The API used to provide information on each 
 
 ![](https://github.com/CodeWithConnor/Netflix-Clone/blob/main/preview.png)
 
-### Technologies used
+### Technologies Used
 
 - Axios
 - React
