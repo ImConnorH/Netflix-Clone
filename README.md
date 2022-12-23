@@ -1,24 +1,33 @@
-# Netflix-Clone
-A Netflix clone using React JS
+# Netflix Clone
 
-This project was built using React. The API used to provide information on each movie is provided by [TMBD](https://www.themoviedb.org/documentation/api).
+[![GitHub license](https://img.shields.io/github/license/CodeWithConnor/Netflix-Clone)](https://github.com/CodeWithConnor/Netflix-Clone/blob/main/LICENSE)
 
-![](https://github.com/CodeWithConnor/Netflix-Clone/blob/main/preview.png)
+Welcome to my Netflix Clone project! This is a frontend application built using React JS that aims to replicate the functionality and user experience of the popular streaming service.
 
-### Technologies Used
+## Table of Contents
+
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [How to Run The Project Locally](#how-to-run-the-project-locally)
+- [Collaboration](#lets-collaborate)
+- [License](#license)
+
+## Description
+
+In this project, I utilized the TMDb API to retrieve information on various movies and TV shows, including titles, descriptions and poster images. I also used Axios to handle API requests and CSS for styling.
+
+One of the main challenges I faced during development was ensuring a smooth and seamless user experience, as well as optimizing the performance of the application. To achieve this, I made use of React's virtual DOM and lazy loading techniques to efficiently render and update the UI.
+
+## Technologies Used
 
 - Axios
 - React
 - CSS
 
-### How to Run The Project Locally
+## How to Run The Project Locally
 
-- Install dependencies: run `npm install` in root project
-- Register for your API key [here](https://www.themoviedb.org/documentation/api)
-- Navigate to requests.js and replace your API key with the sample key
-- Run the project: `npm start`
+To run the project locally, you will need to follow these steps:
 
-### Let's Collaborate!
-
-If this project interests you, or you would like to learn more about any of the technologies used,
-please feel free to create a pull request and contribute! All ideas are welcome!
+1. Install dependencies by running `npm install` in the root project directory.
+2. [Register for your own API key](https://www.themoviedb.org/documentation/api) from TMDb and replace the sample key in the requests.js file.
+3. Run the project using `npm start`.
