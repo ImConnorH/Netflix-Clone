@@ -4,6 +4,8 @@
 
 Welcome to my Netflix Clone project! This is a frontend application built using React JS that aims to replicate the functionality and user experience of the popular streaming service.
 
+![](https://github.com/CodeWithConnor/Netflix-Clone/blob/main/preview.png)
+
 ## Table of Contents
 
 - [Description](#description)
