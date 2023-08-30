@@ -11,8 +11,6 @@ Welcome to my Netflix Clone project! This is a frontend application built using 
 - [Description](#description)
 - [Technologies Used](#technologies-used)
 - [How to Run The Project Locally](#how-to-run-the-project-locally)
-- [Collaboration](#lets-collaborate)
-- [License](#license)
 
 ## Description
 
@@ -22,8 +20,8 @@ One of the main challenges I faced during development was ensuring a smooth and 
 
 ## Technologies Used
 
-- Axios
 - React
+- Axios
 - CSS
 
 ## How to Run The Project Locally
